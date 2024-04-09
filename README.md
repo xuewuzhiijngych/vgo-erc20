@@ -6,7 +6,7 @@
 
 ### 使用：
 - golang>=1.18
-- git clone [xxx](https://github.com/xuewuzhiijngych/vgo-erc20.git)
+- git clone [仓库地址-](https://github.com/xuewuzhiijngych/vgo-erc20.git)
 - cd vgo-erc20
 - go mod tidy
 - go run main.go
